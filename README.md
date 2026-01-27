@@ -17,8 +17,7 @@ Email (for Daily usage)：[im@lxhtt.cn](mailto:im@lxhtt.cn)
 - [MCSL-Sync-NodeClient](https://github.com/MCSLTeam/MCSL-Sync-NodeClient) （Node for Minecraft Server Core Sync Utility）
 - [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt) （ME Frp 4.0 GUI Launcher based on PyQt5）
 - [ME-Frp-Frontend~v5](https://github.com/ME-Frp/Frontend-v5) （ME Frp 5.0 frontend, powered by Vue 3, TypeScript and Naive UI）
-- [ME-Frp-Core-v5
-- ](https://github.com/ME-Frp/ME-Frp-Core-Next) （ME Frp 5.0 core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.61.1）
+- [ME-Frp-Core-v5](https://github.com/ME-Frp/ME-Frp-Core-Next) （ME Frp 5.0 core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.61.1）
 - [ME-Frp-Core-Legacy](https://github.com/ME-Frp/ME-Frp-Core-Legacy) （ME Frp 5.0 legacy core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.51.3）
 
 ### Developing Environment
