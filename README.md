@@ -22,9 +22,9 @@
 - [ME-Frp-v4-QtLauncher](https://github.com/MagicEdgeNet/ME-Frp-v4-QtLauncher) （基于 PyQt5 的 ME Frp 4.0 GUI 启动器）
 
 （以下为公司内部私有仓库）
-- ~ME-Frp-v5-Frontend （ME Frp v5 前端，由 Vue 3、TypeScript 和 Naive UI 驱动）~
-- ~ME-Frp-v5-Core（ME Frp v5 核心，基于 [fatedier/frp](https://github.com/fatedier/frp) 分支并修改）~
-- ~melink-v6 （MELink v6，下一代 ME Frp，由自研穿透核心驱动，性能大幅提升）~
+- ME-Frp-v5-Frontend （ME Frp v5 前端，由 Vue 3、TypeScript 和 Naive UI 驱动）
+- ME-Frp-v5-Core（ME Frp v5 核心，基于 [fatedier/frp](https://github.com/fatedier/frp) 分支并修改） 
+- melink-v6 （MELink v6，下一代 ME Frp，由自研穿透核心驱动，性能大幅提升） 
 - 某场景化 Agent 项目（受公司保密协议限制，不予公开）  
 - 某自研 IDC 财务系统（受公司保密协议限制，不予公开）  
 - 某自研账户系统（受公司保密协议限制，不予公开）  
