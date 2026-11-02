@@ -9,7 +9,9 @@
 #### 我的成就：  
 [![GitHub Org Stars](https://img.shields.io/github/stars/MCSLTeam?style=flat-square&logo=github&label=MCSLTeam%20Stars&color=black)](https://github.com/MCSLTeam)
 [![ME Frp Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mefrp.com%2Fapi%2Fpublic%2Fstatistics&query=%24.data.users&label=ME%20Frp%20用户数&style=flat-square&color=2393F2)](https://www.mefrp.com/)
-[![MCSL2 Downloads](https://img.shields.io/github/downloads/MCSLTeam/MCSL2/total?style=flat-square&logo=github&label=MCSL2%20下载量&color=3AB58B)](https://github.com/MCSLTeam/MCSL2/releases)
+[![MCSL2 Downloads](https://img.shields.io/github/downloads/MCSLTeam/MCSL2/total?style=flat-square&logo=github&label=MCSL2%20下载量&color=3AB58B)](https://github.com/MCSLTeam/MCSL2/releases)  
+AdventureX 2025 黑客松，腾讯云 “云上生长，智能体进化论” [赛道二等奖](https://gallery.adventure-x.cn/projects/fa3254cb-3bbb-4a1a-b9db-557ddb6d5fff)。  
+计算机软件著作权若干。
 
 ### 我的项目
 - [MCServerLauncher 2](https://github.com/MCSLTeam/MCSL2) （基于 PyQt5 的 Minecraft 服务器启动器）  
