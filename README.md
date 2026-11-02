@@ -1,72 +1,60 @@
-### Intro
+### 简介
 
-Hi there, I'm Dorian Zhuang.  
+你好！我是**落雪无痕**，目前就读于**三明学院 人工智能专业（2026级）**。  
+同时也任职于**云上极致（深圳）互联网有限公司**与**极致锐联（深圳）科技有限公司**。  
+我也是 [MCSL 开发组](https://github.com/MCSLTeam) 的创始人，以及 [MENET 幻缘网络](https://github.com/MagicEdgeNet) 的现任负责人，[幻缘映射 ME Frp](https://www.mefrp.com/) 站长。
 
-Leader of [MCSLTeam](https://github.com/MCSLTeam) and [MagicEdge Network](https://github.com/MagicEdgeNet).  
+### 我的项目
 
-Email (for works about MagicEdge Network)：[lxhtt@menetx.com](mailto:lxhtt@menetx.com)  
-Email (for works about MCSLTeam)：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
-Email (for Daily usage)：[im@lxhtt.cn](mailto:im@lxhtt.cn)
+- [MCServerLauncher 2](https://github.com/MCSLTeam/MCSL2) （基于 PyQt5 的 Minecraft 服务器启动器）  
+- [MCServerLauncher Future](https://github.com/MCSLTeam/MCServerLauncher-Future) （基于 .NET 的全新服务器管理工具）  
 
-### My Outstanding Projects
+- [MCSL-Sync-Frontend](https://github.com/MCSLTeam/MCSL-Sync-Frontend) （Minecraft 服务器核心同步工具-前端）
+- [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Backend) （Minecraft 服务器核心同步工具-后端）
+- [MCSL-Sync-NodeClient](https://github.com/MCSLTeam/MCSL-Sync-NodeClient) （Minecraft 服务器核心同步工具-节点端）  
 
-- [MCServerLauncher 2](https://github.com/MCSLTeam/MCSL2) （Minecraft Server Launcher based on PyQt5）
-- [MCServerLauncher Future](https://github.com/MCSLTeam/MCServerLauncher-Future) （A brand new server management tool）
-- [MCSL-Sync-Frontend](https://github.com/MCSLTeam/MCSL-Sync-Frontend) （Frontend of Minecraft Server Core Sync Utility）
-- [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Backend) （Backend for Minecraft Server Core Sync Utility）
-- [MCSL-Sync-NodeClient](https://github.com/MCSLTeam/MCSL-Sync-NodeClient) （Node for Minecraft Server Core Sync Utility）
-- [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt) （ME Frp 4.0 GUI Launcher based on PyQt5）
-- [ME-Frp-Frontend~v5](https://github.com/ME-Frp/Frontend-v5) （ME Frp 5.0 frontend, powered by Vue 3, TypeScript and Naive UI）
-- [ME-Frp-Core-v5](https://github.com/ME-Frp/ME-Frp-Core-Next) （ME Frp 5.0 core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.61.1）
-- [ME-Frp-Core-Legacy](https://github.com/ME-Frp/ME-Frp-Core-Legacy) （ME Frp 5.0 legacy core, forked and modified from [fatedier/frp](https://github.com/fatedier/frp), based on Version 0.51.3）
+- [ME-Frp-v4-QtLauncher](https://github.com/MagicEdgeNet/ME-Frp-v4-QtLauncher) （基于 PyQt5 的 ME Frp 4.0 GUI 启动器）
 
-### Developing Environment
+（以下为公司内部私有仓库）
+- ~ME-Frp-v5-Frontend （ME Frp v5 前端，由 Vue 3、TypeScript 和 Naive UI 驱动）~
+- ~ME-Frp-v5-Core（ME Frp v5 核心，基于 [fatedier/frp](https://github.com/fatedier/frp) 分支并修改）~
+- ~melink-v6 （MELink v6，下一代 ME Frp，由自研穿透核心驱动，性能大幅提升）~
+- 某场景化 Agent 项目（受公司保密协议限制，不予公开）  
+- 某自研 IDC 财务系统（受公司保密协议限制，不予公开）  
+- 某自研账户系统（受公司保密协议限制，不予公开）  
 
-#### Systems
+### 开发环境
 
-![Static Badge](https://img.shields.io/badge/Windows%2011-%20?style=flat-square&logo=windows&logoColor=white&color=0078D4)
-![Static Badge](https://img.shields.io/badge/WSL%20Ubuntu%2022.04-%20?style=flat-square&logo=ubuntu&logoColor=white&color=orange)
-![Static Badge](https://img.shields.io/badge/macOS%20BigSur-%20?style=flat-square&logo=apple&logoColor=white&color=black)
+#### 操作系统
 
-#### Toolkits & IDEs
+![Static Badge](https://img.shields.io/badge/Windows%2011-%20?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMGgxMXYxMUgweiBNMTIgMGgxMXYxMUgxMnogTTAgMTJoMTF2MTFIMHogTTEyIDEyaDExdjExSDEyeiIvPjwvc3ZnPg==&logoColor=white&color=0078D4)
+![Static Badge](https://img.shields.io/badge/WSL%20Ubuntu%2026.04-%20?style=flat-square&logo=ubuntu&logoColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/macOS%2027-%20?style=flat-square&logo=apple&logoColor=white&color=black)
 
-![Static Badge](https://img.shields.io/badge/Visual%20Studio-%20?style=flat-square&logo=dotenv&logoColor=white&color=purple)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%20?style=flat-square&logo=vscodium&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/PyCharm-%20?style=flat-square&logo=pycharm&logoColor=white&color=green)
-![Static Badge](https://img.shields.io/badge/WebStorm-%20?style=flat-square&logo=webstorm&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/Rider-%20?style=flat-square&logo=rider&logoColor=white&color=orange)
-![Static Badge](https://img.shields.io/badge/DataGrip-%20?style=flat-square&logo=datagrip&logoColor=white&color=yellow)
+#### 编程语言与框架...
 
-#### Programming Languages & Frameworks...
-
-![Static Badge](https://img.shields.io/badge/CSharp-%20?style=flat-square&logo=dotnet&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/CSharp-%20?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEuMTk0IDcuNTQzdjguOTEzYzAgMS4xMDMuNTg4IDIuMTIyIDEuNTQ0IDIuNjc0bDcuNzE4IDQuNDU2YTMuMDkgMy4wOSAwIDAgMCAzLjA4OCAwbDcuNzE4LTQuNDU2YTMuMDkgMy4wOSAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4IDMuMDggMCAwIDAtMS41NDQtMi42NzNMMTMuNTQ0LjQxNGEzLjA5IDMuMDkgMCAwIDAtMy4wODggMEwyLjczOCA0Ljg3YTMuMDkgMy4wOSAwIDAgMC0xLjU0NCAyLjY3M201LjQwMyAyLjkxNHYzLjA4N2EuNzcuNzcgMCAwIDAgLjc3Mi43NzIuNzczLjc3MyAwIDAgMCAuNzcyLS43NzIuNzczLjc3MyAwIDAgMSAxLjMxNy0uNTQ2Ljc4Ljc4IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEgMi4zMSAwIDAgMSAzLjI3NCAwYy40MzQuNDM0LjY3OCAxLjAyMy42NzggMS42MzdhLjc3Ljc3IDAgMCAxLS4yMjYuNTQ1Ljc2Ny43NjcgMCAwIDEtMS4wOTEgMGEuNzcuNzcgMCAwIDEtLjIyNi0uNTQ1Ljc3Ljc3IDAgMCAwLS43NzItLjc3Mi43Ny43NyAwIDAgMC0uNzcyLjc3Mm0xMi4zNSAzLjA4N2EuNzcuNzcgMCAwIDEtLjc3Mi43NzJoLS43NzJ2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjU0NCAwdi0uNzcyaC0xLjU0NHYuNzcyYS43NzMuNzczIDAgMCAxLTEuNTQ0IDB2LS43NzJoLS43NzJhLjc3Ljc3IDAgMCAxIDAtMS41NDRoLjc3MnYtMS41NDRoLS43NzJhLjc3Ljc3IDAgMCAxIDAtMS41NDRoLjc3MnYtLjc3MmEuNzczLjc3MyAwIDAgMSAxLjU0NCAwdi43NzJoMS41NDR2LS43NzJhLjc3My43NzMgMCAwIDEgMS41NDQgMHYuNzcyaC43NzJhLjc3Ljc3IDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDRoLjc3MmEuNzcuNzcgMCAwIDEgLjc3Mi43NzJtLTMuMDg2LTEuNTQ0di0xLjU0NGgtMS41NDR2MS41NDR6Ii8+PC9zdmc+&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/C%2FC++-%20?style=flat-square&logo=cplusplus&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=3178C6)
-![Static Badge](https://img.shields.io/badge/HTML5-%20?style=flat-square&logo=html5&logoColor=white&color=E34F26)
-![Static Badge](https://img.shields.io/badge/JavaScript-%20?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
-![Static Badge](https://img.shields.io/badge/TypeScript-%20?style=flat-square&logo=typescript&logoColor=white&color=3178C6)
-![Static Badge](https://img.shields.io/badge/Vue3-%20?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
-![Static Badge](https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=1572B6)
-![Static Badge](https://img.shields.io/badge/Stylus-%20?style=flat-square&logo=stylus&logoColor=white&color=yellow)
-![Static Badge](https://img.shields.io/badge/C++-%20?style=flat-square&logo=cplusplus&logoColor=white&color=pink)
-![Static Badge](https://img.shields.io/badge/Node.js-%20?style=flat-square&logo=nodedotjs&logoColor=white&color=339933)
-![Static Badge](https://img.shields.io/badge/EJS-%20?style=flat-square&logo=ejs&logoColor=white&color=B4CA65)
-![Static Badge](https://img.shields.io/badge/Bun-%20?style=flat-square&logo=bun&logoColor=white&color=000000)
-![Static Badge](https://img.shields.io/badge/Hexo-%20?style=flat-square&logo=hexo&logoColor=white&color=3178C6)
-![Static Badge](https://img.shields.io/badge/VitePress-%20?style=flat-square&logo=vitepress&logoColor=white&color=339933)
-![Static Badge](https://img.shields.io/badge/Qt-%20?style=flat-square&logo=qt&logoColor=white&color=green)
-![Static Badge](https://img.shields.io/badge/Nuxt.js-%20?style=flat-square&logo=nuxtdotjs&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/Vue%203-%20?style=flat-square&logo=vuedotjs&logoColor=white&color=4FC08D)
+![Static Badge](https://img.shields.io/badge/React-%20?style=flat-square&logo=react&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Rust-%20?style=flat-square&logo=rust&logoColor=white&color=brown)
-![Static Badge](https://img.shields.io/badge/Golang-%20?style=flat-square&logo=go&logoColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Golang-%20?style=flat-square&logo=go&logoColor=white&color=blue)  
+![Static Badge](https://img.shields.io/badge/Node.js-%20?style=flat-square&logo=nodedotjs&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/Nuxt.js-%20?style=flat-square&logo=nuxt&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/Next.js-%20?style=flat-square&logo=nextdotjs&logoColor=white&color=000000)
+![Static Badge](https://img.shields.io/badge/Vite%20Press-%20?style=flat-square&logo=vitepress&logoColor=white&color=339933)
+![Static Badge](https://img.shields.io/badge/Bun-%20?style=flat-square&logo=bun&logoColor=white&color=000000)
+![Static Badge](https://img.shields.io/badge/Qt-%20?style=flat-square&logo=qt&logoColor=white&color=green)
 
-### Public Keys
+### 公钥
 
-#### GPG Public Keys
-
+#### GPG 公钥
 ```
 Key ID = 4829888888888888
 ```
-[GitHub](https://github.com/LxHTT.gpg)
+[LxHTT.gpg](https://github.com/LxHTT.gpg)
 
-#### SSH Public Keys
+#### SSH 公钥
 
-[GitHub](https://github.com/LxHTT.keys)
+[LxHTT.keys](https://github.com/LxHTT.keys)
